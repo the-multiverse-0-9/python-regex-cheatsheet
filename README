@@ -1,7 +1,11 @@
 Python Regular Expression Cheatsheet
 ====================================
+**********************
+PLEASE READ BEFORE USE
+**********************
 
 To generate the PDF:
+====================
 
 * Install Python 2.7
 
@@ -17,7 +21,6 @@ To generate the PDF:
 
 
 Thanks
-------
+======
 
 Github user 'elzapp' added an excellent description of '^' within '[]'.
-
